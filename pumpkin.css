@@ -127,7 +127,7 @@ body {
   width: 0.5em;
   height: 1em;
   position: absolute;
-  top: 7.1em;
+  top: 7.4em;
   left: 7.25em;
 }
 
@@ -142,8 +142,8 @@ body {
 }
 
 .pumpkin .teeth:before {
-  left: 2.2em;
-  top: -0.65em;
+  left: 1.1em;
+  top: -0.75em;
   transform: rotate(30deg);
   border-bottom: 0.5em solid transparent;
   border-left: 1em solid #401b03;
